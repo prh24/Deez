@@ -40,7 +40,7 @@ Release | TBD
 
 ```gradle
 android {
-    ndkVersion "21.0.6352462"
+    ndkVersion "21.1.6352462"
 }
 ```
 
