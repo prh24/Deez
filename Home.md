@@ -40,7 +40,7 @@ Release | TBD
 
 ```gradle
 android {
-    ndkVersion "21.1.6352462"
+    ndkVersion "21.2.6472646"
 }
 ```
 
@@ -52,21 +52,27 @@ android {
     <th>SHA1 Checksum</th>
   </tr>
   <tr>
-    <td>Linux</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r21b-linux-x86_64.zip">android-ndk-r21b-linux-x86_64.zip</a></td>
-    <td>1162377080</td>
-    <td>50250fcba479de477b45801e2699cca47f7e1267</td>
-  </tr>
-  <tr>
-    <td>Windows</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r21b-windows-x86_64.zip">android-ndk-r21b-windows-x86_64.zip</a></td>
-    <td>1079474640</td>
-    <td>6809fac4a6e829f4bac64628fa9835d57bbd61a8</td>
+    <td>macOS App Bundle</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r21c-darwin-x86_64.dmg">android-ndk-r21c-darwin-x86_64.dmg</a></td>
+    <td>1224020863</td>
+    <td>9c842cfaf44bae0ca17d7f6eac3f7e20864ce197</td>
   </tr>
   <tr>
     <td>macOS</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r21b-darwin-x86_64.zip">android-ndk-r21b-darwin-x86_64.zip</a></td>
-    <td>1014473187</td>
-    <td>e1de2f749c5c32ae991c3ccaabfcdf7688ee221f</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r21c-darwin-x86_64.zip">android-ndk-r21c-darwin-x86_64.zip</a></td>
+    <td>1014322452</td>
+    <td>c42a836f6697a4ef8b927813d5f7dd12e974cfba</td>
+  </tr>
+  <tr>
+    <td>Linux</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r21c-linux-x86_64.zip">android-ndk-r21c-linux-x86_64.zip</a></td>
+    <td>1162375023</td>
+    <td>c81a5bcb4672a18d3647bf6898cd4dbcb978d0e8</td>
+  </tr>
+  <tr>
+    <td>Windows</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r21c-windows-x86_64.zip">android-ndk-r21c-windows-x86_64.zip</a></td>
+    <td>1079490351</td>
+    <td>93563a1297a60b5da49a48f62340dbf0c878a5f3</td>
   </tr>
 </table>
