@@ -56,7 +56,8 @@ For Android Studio issues, follow the docs on the [Android Studio site].
    allowed by Gatekeeper.
 
    **The SDK manager is currently the most reliable way to get the NDK
-          formacOS.**
+     formacOS.**
+
 [Build System Maintainers Guide]: https://android.googlesource.com/platform/ndk/+/master/docs/BuildSystemMaintainers.md
 
 ## r21b
