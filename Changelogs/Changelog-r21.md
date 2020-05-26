@@ -57,14 +57,10 @@ For Android Studio issues, follow the docs on the [Android Studio site].
    package as the app bundle requires layout changes that would make it
    incompatible with Android Studio.  The NDK is not quarantined when it is
    downloaded via the SDK manager, so is curently allowed by Gatekeeper.
-
    **The SDK manager is currently the most reliable way to get the NDK for
    macOS.**
-
  * [Issue 1207]: Fix fatal error in clang when building with -O2 on arm64.
-
  * [Issue 1239]: Fix network drive issues for clang.
-
  * [Issue 1229]: README.md turned back to ordinary file.
 
 [Issue 1060]: https://github.com/android/ndk/issues/1060
