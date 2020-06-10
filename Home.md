@@ -40,7 +40,7 @@ Release | TBD
 
 ```gradle
 android {
-    ndkVersion "21.2.6472646"
+    ndkVersion "21.3.6528147"
 }
 ```
 
@@ -53,26 +53,26 @@ android {
   </tr>
   <tr>
     <td>macOS App Bundle</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r21c-darwin-x86_64.dmg">android-ndk-r21c-darwin-x86_64.dmg</a></td>
-    <td>1224020863</td>
-    <td>9c842cfaf44bae0ca17d7f6eac3f7e20864ce197</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r21d-darwin-x86_64.dmg">android-ndk-r21d-darwin-x86_64.dmg</a></td>
+    <td>1258792917</td>
+    <td>0bc502aa2bceb63c404707d99fae1a375bdc3aaf</td>
   </tr>
   <tr>
     <td>macOS</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r21c-darwin-x86_64.zip">android-ndk-r21c-darwin-x86_64.zip</a></td>
-    <td>1014322452</td>
-    <td>c42a836f6697a4ef8b927813d5f7dd12e974cfba</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r21d-darwin-x86_64.zip">android-ndk-r21d-darwin-x86_64.zip</a></td>
+    <td>1042615469</td>
+    <td>ef06c9f9d7efd6f243eb3c05ac440562ae29ae12</td>
   </tr>
   <tr>
     <td>Linux</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r21c-linux-x86_64.zip">android-ndk-r21c-linux-x86_64.zip</a></td>
-    <td>1162375023</td>
-    <td>c81a5bcb4672a18d3647bf6898cd4dbcb978d0e8</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r21d-linux-x86_64.zip">android-ndk-r21d-linux-x86_64.zip</a></td>
+    <td>1190667841</td>
+    <td>bcf4023eb8cb6976a4c7cff0a8a8f145f162bf4d</td>
   </tr>
   <tr>
     <td>Windows</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r21c-windows-x86_64.zip">android-ndk-r21c-windows-x86_64.zip</a></td>
-    <td>1079490351</td>
-    <td>93563a1297a60b5da49a48f62340dbf0c878a5f3</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r21d-windows-x86_64.zip">android-ndk-r21d-windows-x86_64.zip</a></td>
+    <td>1109536102</td>
+    <td>99175ce1210258f2280568cd340e0666c69955c7</td>
   </tr>
 </table>
