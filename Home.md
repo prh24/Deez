@@ -28,7 +28,7 @@ Process](/android/ndk/wiki/NDK-Release-Process).
 
 Release | Expected Release Date
 ------- | ---------------------
-Beta 1  | Q2 2020
+Beta 1  | Q3 2020
 RC 1    | TBD
 Release | TBD
 
