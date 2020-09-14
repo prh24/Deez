@@ -69,6 +69,11 @@ APIs in the LTS) will never be added in point releases.
   made about the stability or availability of these features, and providing a
   fix risks destabilizing the rest of the toolchain.
 
+### A note about toolchain issues
+Wherever possible we will follow the guidelines laid out in this document, but for cases where LLVM does not yet have a fix we may not have the resources to fix it ourselves. Fixes of this nature often must be made by a subject matter expert, and most of those engineers are not on our staff. LLVM is a team effort including many companies and individuals, and their schedules are not dictated by the NDK.
+
+For these cases, we will raise the issue with the LLVM community and see that it reaches the right people. We do not wish to indefinitely delay an NDK release, so if a fix is not forthcoming we will need to ship with those known issues. Regressions from the previous release will be given more weight so as to not impede taking NDK updates, but the same constraints apply.
+
 ## LTS Release
 
 These releases cater to users that prioritize stability over new features.
