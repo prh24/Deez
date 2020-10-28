@@ -28,11 +28,54 @@ Process](/android/ndk/wiki/NDK-Release-Process).
 
 Release | Expected Release Date
 ------- | ---------------------
-Beta 1  | Q4 2020
+Beta 1  | Released!
 RC 1    | TBD
 Release | TBD
 
 ## Supported Downloads
+
+### Current Beta Release
+
+[[r22 Changelog|Changelog-r22]]
+
+```gradle
+android {
+    ndkVersion "22.0.6917172-beta1"
+}
+```
+
+<table>
+  <tr>
+    <th>Platform</th>
+    <th>Package</th>
+    <th>Size (bytes)</th>
+    <th>SHA1 Checksum</th>
+  </tr>
+  <tr>
+    <td>macOS App Bundle</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r22-beta1-darwin-x86_64.dmg">android-ndk-r22-beta1-darwin-x86_64.dmg</a></td>
+    <td>1210390069</td>
+    <td>e3c0d14c1c3101f611e5870518c4738bcda8d0d5</td>
+  </tr>
+  <tr>
+    <td>macOS</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r22-beta1-darwin-x86_64.zip">android-ndk-r22-beta1-darwin-x86_64.zip</a></td>
+    <td>1047697781</td>
+    <td>0ff242f820663fe45773bca7a2df036004fc7c69</td>
+  </tr>
+  <tr>
+    <td>Linux</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r22-beta1-linux-x86_64.zip">android-ndk-r22-beta1-linux-x86_64.zip</a></td>
+    <td>1146575022</td>
+    <td>687f696f43b23e2623e7f7073bbd575d254f66f6</td>
+  </tr>
+  <tr>
+    <td>Windows</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r22-beta1-windows-x86_64.zip">android-ndk-r22-beta1-windows-x86_64.zip</a></td>
+    <td>1080588810</td>
+    <td>ef38999c0e3c96124acffab6971ad2054a433b91</td>
+  </tr>
+</table>
 
 ### Current LTS Release
 
