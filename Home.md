@@ -29,8 +29,8 @@ Process](/android/ndk/wiki/NDK-Release-Process).
 Release | Expected Release Date
 ------- | ---------------------
 Beta 1  | Released!
-RC 1    | TBD
-Release | TBD
+RC 1    | Released!
+Release | Dec 9, 2020
 
 ## Supported Downloads
 
