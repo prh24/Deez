@@ -30,7 +30,7 @@ Release | Expected Release Date
 ------- | ---------------------
 Beta 1  | Released!
 RC 1    | Released!
-Release | Dec 9, 2020
+Release | Delayed. Will update status on 14 December
 
 ## Supported Downloads
 
