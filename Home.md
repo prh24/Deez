@@ -30,17 +30,17 @@ Release | Expected Release Date
 ------- | ---------------------
 Beta 1  | Released!
 RC 1    | Released!
-Release | Delayed. Will update status on 14 December
+Release | Released!
 
 ## Supported Downloads
 
-### Current Beta Release
+### Current Stable Release
 
 [[r22 Changelog|Changelog-r22]]
 
 ```gradle
 android {
-    ndkVersion "22.0.6917172-beta1"
+    ndkVersion "22.0.7026061"
 }
 ```
 
@@ -53,27 +53,27 @@ android {
   </tr>
   <tr>
     <td>macOS App Bundle</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r22-beta1-darwin-x86_64.dmg">android-ndk-r22-beta1-darwin-x86_64.dmg</a></td>
-    <td>1210390069</td>
-    <td>e3c0d14c1c3101f611e5870518c4738bcda8d0d5</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r22-darwin-x86_64.dmg">android-ndk-r22-darwin-x86_64.dmg</a></td>
+    <td>1210328006</td>
+    <td>3445ac326db65141415d24c9833e27827ca00727</td>
   </tr>
   <tr>
     <td>macOS</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r22-beta1-darwin-x86_64.zip">android-ndk-r22-beta1-darwin-x86_64.zip</a></td>
-    <td>1047697781</td>
-    <td>0ff242f820663fe45773bca7a2df036004fc7c69</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r22-darwin-x86_64.zip">android-ndk-r22-darwin-x86_64.zip</a></td>
+    <td>1047577432</td>
+    <td>9cf3816ed3e4308ff03bd5f69100b373bad12f13</td>
   </tr>
   <tr>
     <td>Linux</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r22-beta1-linux-x86_64.zip">android-ndk-r22-beta1-linux-x86_64.zip</a></td>
-    <td>1146575022</td>
-    <td>687f696f43b23e2623e7f7073bbd575d254f66f6</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r22-linux-x86_64.zip">android-ndk-r22-linux-x86_64.zip</a></td>
+    <td>1146450986</td>
+    <td>82274313aba10da6177fd41868f56a0f9651dd81</td>
   </tr>
   <tr>
     <td>Windows</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r22-beta1-windows-x86_64.zip">android-ndk-r22-beta1-windows-x86_64.zip</a></td>
-    <td>1080588810</td>
-    <td>ef38999c0e3c96124acffab6971ad2054a433b91</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r22-windows-x86_64.zip">android-ndk-r22-windows-x86_64.zip</a></td>
+    <td>1080471370</td>
+    <td>c03f761caf1c6f5efbeb5ccfa573ea922cb955b3</td>
   </tr>
 </table>
 
