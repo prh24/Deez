@@ -39,7 +39,7 @@ For Android Studio issues, follow the docs on the [Android Studio site].
   issues:
    * [Issue 1258]: `std::filesystem::perm_options::nofollow` may not be
      honored on old devices.
-   * [Issue 1260]: `std::filesystem:canonical` will incorrectly succeed when
+   * [Issue 1260]: `std::filesystem::canonical` will incorrectly succeed when
      passed a non-existent path on old devices.
 
 * [Issue 843]: `llvm-strip` is now used instead of `strip` to avoid breaking
