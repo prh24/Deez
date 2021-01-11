@@ -34,7 +34,7 @@ Release | Released!
 
 ## Supported Downloads
 
-### Current Stable Release
+### Current Rolling Release
 
 [[r22 Changelog|Changelog-r22]]
 
