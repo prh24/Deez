@@ -52,6 +52,28 @@ For Android Studio issues, follow the docs on the [Android Studio site].
 
 [Build System Maintainers Guide]: https://android.googlesource.com/platform/ndk/+/master/docs/BuildSystemMaintainers.md
 
+## r21e
+
+* [Issue 1248]: Fixed LLVM codegen segfault that occurred for some Neon
+  intrinsics.
+* [Issue 1267]: Fixed `APP_BUILD_SCRIPT` not working when the file was named
+  anything other than `Android.mk`.
+* [Issue 1281]: Fixed missing `<stdbool.h>` includes in some headers that caused
+  issues for inclusion from C sources.
+* [Issue 1307]: Protect against incompatibilities between NDK Binder API and
+  AIDL. Note that in the future the AIDL support headers will be moved from the
+  NDK to build-tools to remove the potential for incompatibility.
+* [Issue 1370]: Fixed missing datetime import when building the shaderc library.
+* [Issue 1388]: Fixed LLVM's incorrect conversion to list files for long command
+  lines on Windows.
+
+[Issue 1248]: https://github.com/android/ndk/issues/1248
+[Issue 1267]: https://github.com/android/ndk/issues/1267
+[Issue 1281]: https://github.com/android/ndk/issues/1281
+[Issue 1307]: https://github.com/android/ndk/issues/1307
+[Issue 1370]: https://github.com/android/ndk/issues/1370
+[Issue 1388]: https://github.com/android/ndk/issues/1388
+
 ## r21d
 
  * Added APIs for Android 11:
@@ -87,10 +109,14 @@ For Android Studio issues, follow the docs on the [Android Studio site].
    package as the app bundle requires layout changes that would make it
    incompatible with Android Studio.  The NDK is not quarantined when it is
    downloaded via the SDK manager, so is curently allowed by Gatekeeper.
+
    **The SDK manager is currently the most reliable way to get the NDK for
    macOS.**
+
  * [Issue 1207]: Fix fatal error in clang when building with -O2 on arm64.
+
  * [Issue 1239]: Fix network drive issues for clang.
+
  * [Issue 1229]: README.md turned back to ordinary file.
 
 [Issue 1060]: https://github.com/android/ndk/issues/1060

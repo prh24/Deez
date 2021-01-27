@@ -83,7 +83,7 @@ android {
 
 ```gradle
 android {
-    ndkVersion "21.3.6528147"
+    ndkVersion "21.4.7075529"
 }
 ```
 
@@ -95,27 +95,27 @@ android {
     <th>SHA1 Checksum</th>
   </tr>
   <tr>
-    <td>macOS App Bundle</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r21d-darwin-x86_64.dmg">android-ndk-r21d-darwin-x86_64.dmg</a></td>
-    <td>1258792917</td>
-    <td>0bc502aa2bceb63c404707d99fae1a375bdc3aaf</td>
-  </tr>
-  <tr>
-    <td>macOS</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r21d-darwin-x86_64.zip">android-ndk-r21d-darwin-x86_64.zip</a></td>
-    <td>1042615469</td>
-    <td>ef06c9f9d7efd6f243eb3c05ac440562ae29ae12</td>
-  </tr>
-  <tr>
     <td>Linux</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r21d-linux-x86_64.zip">android-ndk-r21d-linux-x86_64.zip</a></td>
-    <td>1190667841</td>
-    <td>bcf4023eb8cb6976a4c7cff0a8a8f145f162bf4d</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r21e-linux-x86_64.zip">android-ndk-r21e-linux-x86_64.zip</a></td>
+    <td>1190670072</td>
+    <td>c3ebc83c96a4d7f539bd72c241b2be9dcd29bda9</td>
   </tr>
   <tr>
-    <td>Windows</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r21d-windows-x86_64.zip">android-ndk-r21d-windows-x86_64.zip</a></td>
-    <td>1109536102</td>
-    <td>99175ce1210258f2280568cd340e0666c69955c7</td>
+    <td>Mac OS X</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r21-darwin-x86_64.dmg">android-ndk-r21-darwin-x86_64.dmg</a></td>
+    <td>1258923497</td>
+    <td>d8ab6d1ebb5499a3604db4134372bfbaff96a94e</td>
+  </tr>
+  <tr>
+    <td>Mac OS X</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r21e-darwin-x86_64.zip">android-ndk-r21e-darwin-x86_64.zip</a></td>
+    <td>1042617180</td>
+    <td>3f15c23a1c247ad17c7c271806848dbd40434738</td>
+  </tr>
+  <tr>
+    <td>Windows 64-bit</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r21e-windows-x86_64.zip">android-ndk-r21e-windows-x86_64.zip</a></td>
+    <td>1109665123</td>
+    <td>fc44fea8bb3f5a6789821f40f41dce2d2cd5dc30</td>
   </tr>
 </table>
