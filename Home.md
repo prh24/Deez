@@ -32,6 +32,7 @@ support for NDKs r21 and r22 will end.
 Release | Expected Release Date
 ------- | ---------------------
 Beta 1  | Released!
+Beta 2  | March 2021
 RC 1    | TBD
 Release | TBD
 
