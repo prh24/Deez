@@ -32,7 +32,8 @@ support for NDKs r21 and r22 will end.
 Release | Expected Release Date
 ------- | ---------------------
 Beta 1  | Released!
-Beta 2  | March 2021
+Beta 2  | Released!
+Beta 3  | April 2021
 RC 1    | TBD
 Release | TBD
 
@@ -47,7 +48,7 @@ betas, it will remain in beta until the new APIs are finalized.
 
 ```gradle
 android {
-    ndkVersion "23.0.7123448-beta1"
+    ndkVersion "23.0.7196353-beta1"
 }
 ```
 
@@ -60,27 +61,27 @@ android {
   </tr>
   <tr>
     <td>macOS App Bundle</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r23-beta1-darwin-x86_64.dmg">android-ndk-r23-beta1-darwin-x86_64.dmg</a></td>
-    <td>861629181</td>
-    <td>c895db28064cdfaabaa86ca6973875659d3bd616</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r23-beta2-darwin-x86_64.dmg">android-ndk-r23-beta2-darwin-x86_64.dmg</a></td>
+    <td>859876198</td>
+    <td>039cb1122eac888b4528c81187d49ce8ef856f17</td>
   </tr>
   <tr>
     <td>macOS</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r23-beta1-darwin-x86_64.zip">android-ndk-r23-beta1-darwin-x86_64.zip</a></td>
-    <td>721278316</td>
-    <td>708ebbceb719c43a3165503ea82fb107d823ad54</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r23-beta2-darwin-x86_64.zip">android-ndk-r23-beta2-darwin-x86_64.zip</a></td>
+    <td>674507658</td>
+    <td>454fd0c1e8385896ad465d7cfd653e28fbf3523f</td>
   </tr>
   <tr>
     <td>Linux</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r23-beta1-linux-x86_64.zip">android-ndk-r23-beta1-linux-x86_64.zip</a></td>
-    <td>804392699</td>
-    <td>1340ed20f27fcb184ea814ae63e0f3cd75890342</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r23-beta2-linux-x86_64.zip">android-ndk-r23-beta2-linux-x86_64.zip</a></td>
+    <td>705747711</td>
+    <td>290e8c39bb9732ac8784855e1f22342eb488228e</td>
   </tr>
   <tr>
     <td>Windows</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r23-beta1-windows-x86_64.zip">android-ndk-r23-beta1-windows-x86_64.zip</a></td>
-    <td>749304589</td>
-    <td>c056900896129d3dd4eb953a53a8961d9853aa20</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r23-beta2-windows-x86_64.zip">android-ndk-r23-beta2-windows-x86_64.zip</a></td>
+    <td>747953762</td>
+    <td>00194ae44ce90f2052ab8e42f1a11a0db8d50c2a</td>
   </tr>
 </table>
 
