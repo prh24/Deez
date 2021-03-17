@@ -34,6 +34,8 @@ Release | Expected Release Date
 Beta 1  | Released!
 Beta 2  | Released!
 Beta 3  | April 2021
+Beta 4  | May 2021
+Beta 5  | June 2021
 RC 1    | TBD
 Release | TBD
 
