@@ -48,7 +48,7 @@ betas, it will remain in beta until the new APIs are finalized.
 
 ```gradle
 android {
-    ndkVersion "23.0.7196353-beta1"
+    ndkVersion "23.0.7196353-beta2"
 }
 ```
 
