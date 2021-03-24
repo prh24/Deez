@@ -93,7 +93,7 @@ android {
 
 ```gradle
 android {
-    ndkVersion "22.0.7026061"
+    ndkVersion "22.1.7171670"
 }
 ```
 
@@ -107,26 +107,26 @@ android {
   <tr>
     <td>macOS App Bundle</td>
     <td><a href="https://dl.google.com/android/repository/android-ndk-r22-darwin-x86_64.dmg">android-ndk-r22-darwin-x86_64.dmg</a></td>
-    <td>1210328006</td>
-    <td>3445ac326db65141415d24c9833e27827ca00727</td>
+    <td>1212443975</td>
+    <td>ecd9ce035394e227cba741f48732661055caa251</td>
   </tr>
   <tr>
     <td>macOS</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r22-darwin-x86_64.zip">android-ndk-r22-darwin-x86_64.zip</a></td>
-    <td>1047577432</td>
-    <td>9cf3816ed3e4308ff03bd5f69100b373bad12f13</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r22b-darwin-x86_64.zip">android-ndk-r22b-darwin-x86_64.zip</a></td>
+    <td>1049337733</td>
+    <td>dc80e8a2cfcb28db74c1931d42c652e9d17ff2c3</td>
   </tr>
   <tr>
     <td>Linux</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r22-linux-x86_64.zip">android-ndk-r22-linux-x86_64.zip</a></td>
-    <td>1146450986</td>
-    <td>82274313aba10da6177fd41868f56a0f9651dd81</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r22b-linux-x86_64.zip">android-ndk-r22b-linux-x86_64.zip</a></td>
+    <td>1148198368</td>
+    <td>9ece64c7f19763dd67320d512794969930fce9dc</td>
   </tr>
   <tr>
     <td>Windows</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r22-windows-x86_64.zip">android-ndk-r22-windows-x86_64.zip</a></td>
-    <td>1080471370</td>
-    <td>c03f761caf1c6f5efbeb5ccfa573ea922cb955b3</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r22b-windows-x86_64.zip">android-ndk-r22b-windows-x86_64.zip</a></td>
+    <td>1082301775</td>
+    <td>96ba1a049303cf6bf3ee84cfd64d6bcd43486a50</td>
   </tr>
 </table>
 

@@ -19,6 +19,19 @@ For Android Studio issues, follow the docs on the [Android Studio site].
 
   See the Changes section below for more information.
 
+## r22b
+
+* [Issue 1377]: Fix Clang backend crash in register scavenging.
+* [Issue 1388]: Fixed LLVM's incorrect conversion to list files for long command
+  lines on Windows.
+* [Issue 1391]: Fixed missing symbols from libz.a.
+* [Issue 1427]: Fixed Clang auto-detection for CMake 3.19 and older for Windows.
+
+[Issue 1377]: https://github.com/android/ndk/issues/1377
+[Issue 1388]: https://github.com/android/ndk/issues/1388
+[Issue 1391]: https://github.com/android/ndk/issues/1391
+[Issue 1427]: https://github.com/android/ndk/issues/1427
+
 ## Changes
 
 * Updated LLVM to r399163b, based on LLVM 11 development.
@@ -95,7 +108,6 @@ For Android Studio issues, follow the docs on the [Android Studio site].
 [Build System Maintainers Guide]: https://android.googlesource.com/platform/ndk/+/master/docs/BuildSystemMaintainers.md
 [Issue 609]: https://github.com/android/ndk/issues/609
 [Issue 829]: https://github.com/android/ndk/issues/829
-[Issue 929]: https://github.com/android/ndk/issues/929
 [Issue 1139]: https://github.com/android/ndk/issues/1139
 [Issue 1149]: https://github.com/android/ndk/issues/1149
 [Issue 1196]: https://github.com/android/ndk/issues/1196
