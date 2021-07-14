@@ -29,15 +29,15 @@ Process](/android/ndk/wiki/NDK-Release-Process).
 NDK r23 is expected to be the next LTS release. When NDK r23 ships to stable
 support for NDKs r21 and r22 will end.
 
-Release | Expected Release Date
-------- | ---------------------
-Beta 1  | Released!
-Beta 2  | Released!
-Beta 3  | Released!
-Beta 4  | Released!
-Beta 5  | Released!
-RC 1    | TBD
-Release | TBD
+Release       | Expected Release Date
+------------- | ---------------------
+Beta 1        | Released!
+Beta 2        | Released!
+Beta 3        | Released!
+Beta 4        | Released!
+Beta 5        | Released!
+RC 1 / Beta 6 | Released!
+Release       | TBD
 
 As NDK r23 is the release that will support Android S developer previews and
 betas, it will remain in beta until the new APIs are finalized.
@@ -50,7 +50,7 @@ betas, it will remain in beta until the new APIs are finalized.
 
 ```gradle
 android {
-    ndkVersion "23.0.7421159-beta5"
+    ndkVersion "23.0.7530507-beta6"
 }
 ```
 
@@ -63,27 +63,27 @@ android {
   </tr>
   <tr>
     <td>macOS App Bundle</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r23-beta5-darwin.dmg">android-ndk-r23-beta5-darwin.dmg</a></td>
-    <td>984306127</td>
-    <td>adc46894da63ae4c76e71250606ee17cb8ac1e8d</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r23-beta6-darwin.dmg">android-ndk-r23-beta6-darwin.dmg</a></td>
+    <td>984689909</td>
+    <td>107cb5cf26181ab8ba305e813bb70d15d27bd418</td>
   </tr>
   <tr>
     <td>macOS</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r23-beta5-darwin.zip">android-ndk-r23-beta5-darwin.zip</a></td>
-    <td>694850942</td>
-    <td>9ef60fcc7a4bb0477d4189c711853cbc12b24efe</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r23-beta6-darwin.zip">android-ndk-r23-beta6-darwin.zip</a></td>
+    <td>695336572</td>
+    <td>af299c3e4f6fd3e6f05b1699a0181d84a95068c4</td>
   </tr>
   <tr>
     <td>Linux</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r23-beta5-linux.zip">android-ndk-r23-beta5-linux.zip</a></td>
-    <td>724438684</td>
-    <td>453ba0ca124e43337318f8a40d26cab114e7092c</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r23-beta6-linux.zip">android-ndk-r23-beta6-linux.zip</a></td>
+    <td>725026229</td>
+    <td>b3118a9daeff8ad1801c4dbaeda1e5e5fb33b8a5</td>
   </tr>
   <tr>
     <td>Windows</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r23-beta5-windows.zip">android-ndk-r23-beta5-windows.zip</a></td>
-    <td>785543078</td>
-    <td>ace75623181ce86bc70df312155c04b9d8ff3e46</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r23-beta6-windows.zip">android-ndk-r23-beta6-windows.zip</a></td>
+    <td>786033634</td>
+    <td>386f5c80217f6f33d6420f7de4f935eaff831868</td>
   </tr>
 </table>
 
