@@ -78,6 +78,9 @@ For these cases, we will raise the issue with the LLVM community and see that it
 
 These releases cater to users that prioritize stability over new features.
 
+Support for LTS NDKs ends after a minimum of one year, or when the next LTS
+reaches the release candidate stage.
+
 One release a year will be designated as the Long Term Support release. These
 have a higher bar for stability. This means that we will spend more time fixing
 bugs before promoting to the next stage of the release, and also that lower
@@ -114,6 +117,10 @@ severity bugs on a case-by-case basis.
 | Point release accepts      | Low severity             |
 
 ## Rolling Release
+
+Support for each rolling NDK release ends when the next NDK release (rolling or
+LTS) reaches the release candidate phase. This typically will not be more
+frequent than once a quarter.
 
 ### Rolling release criteria
 
