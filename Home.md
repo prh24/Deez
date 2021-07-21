@@ -26,8 +26,8 @@ Process](/android/ndk/wiki/NDK-Release-Process).
 
 ### NDK r23
 
-NDK r23 is expected to be the next LTS release. When NDK r23 ships to stable
-support for NDKs r21 and r22 will end.
+NDK r23 is to be the next LTS release. NDK r23 has shipped to RC, so there
+will be no further releases of NDKs r21 or r22.
 
 Release       | Expected Release Date
 ------------- | ---------------------
