@@ -37,7 +37,7 @@ Beta 3        | Released!
 Beta 4        | Released!
 Beta 5        | Released!
 RC 1 / Beta 6 | Released!
-Release       | 12 August
+Release       | 11 August
 
 As NDK r23 is the release that will support Android S developer previews and
 betas, it will remain in beta until the new APIs are finalized.
