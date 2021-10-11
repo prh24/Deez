@@ -42,7 +42,7 @@ Release       | TBD
 
 ```gradle
 android {
-    ndkVersion "23.0.7599858"
+    ndkVersion "23.1.7779620"
 }
 ```
 
@@ -55,20 +55,20 @@ android {
   </tr>
   <tr>
     <td>macOS</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r23-darwin.dmg">android-ndk-r23-darwin.dmg</a></td>
-    <td>975816990</td>
-    <td>d07d9d0196d94cd9f3dddefe39c623410ea6c721</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r23b-darwin.dmg">android-ndk-r23b-darwin.dmg</a></td>
+    <td>1537571116</td>
+    <td>e67c17f9763d160368383f05446d605e9e533195</td>
   </tr>
   <tr>
     <td>Linux</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r23-linux.zip">android-ndk-r23-linux.zip</a></td>
-    <td>721667870</td>
-    <td>9bad35f442caeda747780ba1dd92f2d98609d9cd</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r23b-linux.zip">android-ndk-r23b-linux.zip</a></td>
+    <td>725122099</td>
+    <td>f47ec4c4badd11e9f593a8450180884a927c330d</td>
   </tr>
   <tr>
     <td>Windows</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r23-windows.zip">android-ndk-r23-windows.zip</a></td>
-    <td>782684423</td>
-    <td>14af52e23af9f7a9e7576a17e1814701192745be</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r23b-windows.zip">android-ndk-r23b-windows.zip</a></td>
+    <td>788638042</td>
+    <td>6e3fb50022c611a2b13d02f5de5c21cc7206a298</td>
   </tr>
 </table>
