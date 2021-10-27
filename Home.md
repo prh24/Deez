@@ -72,3 +72,40 @@ android {
     <td>6e3fb50022c611a2b13d02f5de5c21cc7206a298</td>
   </tr>
 </table>
+
+### Current Beta Release
+
+[[r24 Changelog|Changelog-r24]]
+
+```gradle
+android {
+    ndkVersion "24.0.7856742-beta1"
+}
+```
+
+<table>
+  <tr>
+    <th>Platform</th>
+    <th>Package</th>
+    <th>Size (bytes)</th>
+    <th>SHA1 Checksum</th>
+  </tr>
+  <tr>
+    <td>macOS</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-beta1-darwin.dmg">android-ndk-r24-beta1-darwin.dmg</a></td>
+    <td>1512656443</td>
+    <td>54074195e5280ac556a3a95847392e063ae8035a</td>
+  </tr>
+  <tr>
+    <td>Linux</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-beta1-linux.zip">android-ndk-r24-beta1-linux.zip</a></td>
+    <td>684615573</td>
+    <td>4e43e498699b00cab8b07d431b65a0c1aa022313</td>
+  </tr>
+  <tr>
+    <td>Windows</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-beta1-windows.zip">android-ndk-r24-beta1-windows.zip</a></td>
+    <td>690364848</td>
+    <td>ade5412e9ac0dd206824e9249a5fbc11c9c248bf</td>
+  </tr>
+</table>
