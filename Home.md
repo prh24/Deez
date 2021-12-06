@@ -30,7 +30,7 @@ NDK r24 is the next rolling release.
 
 Release       | Expected Release Date
 ------------- | ---------------------
-Beta 1        | TBD
+Beta 2        | 2021-12
 RC 1          | TBD
 Release       | TBD
 
