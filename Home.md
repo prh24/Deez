@@ -79,7 +79,7 @@ android {
 
 ```gradle
 android {
-    ndkVersion "24.0.7856742-beta1"
+    ndkVersion "24.0.7956693-beta2"
 }
 ```
 
@@ -92,20 +92,20 @@ android {
   </tr>
   <tr>
     <td>macOS</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-beta1-darwin.dmg">android-ndk-r24-beta1-darwin.dmg</a></td>
-    <td>1512656443</td>
-    <td>54074195e5280ac556a3a95847392e063ae8035a</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-beta2-darwin.dmg">android-ndk-r24-beta2-darwin.dmg</a></td>
+    <td>1517640863</td>
+    <td>ba8cadab52b460a189a57ec149bb0014d6a2c0c4</td>
   </tr>
   <tr>
     <td>Linux</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-beta1-linux.zip">android-ndk-r24-beta1-linux.zip</a></td>
-    <td>684615573</td>
-    <td>4e43e498699b00cab8b07d431b65a0c1aa022313</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-beta2-linux.zip">android-ndk-r24-beta2-linux.zip</a></td>
+    <td>695411089</td>
+    <td>78f3006243c0bc051c7c7bfb939689032e7c41ba</td>
   </tr>
   <tr>
     <td>Windows</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-beta1-windows.zip">android-ndk-r24-beta1-windows.zip</a></td>
-    <td>690364848</td>
-    <td>ade5412e9ac0dd206824e9249a5fbc11c9c248bf</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-beta2-windows.zip">android-ndk-r24-beta2-windows.zip</a></td>
+    <td>661623688</td>
+    <td>d4eb40c03259094ae3ea05134ee17af717f48d6d</td>
   </tr>
 </table>
