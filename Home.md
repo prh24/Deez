@@ -34,6 +34,16 @@ Beta 2        | Released!
 RC 1          | 2022-01-19
 Release       | 2022-02-09
 
+### NDK r25
+
+NDK r25 is the next LTS release.
+
+Release | Expected Release Date
+------- | ---------------------
+Beta 1  | 2022-02-09
+RC 1    | TBD
+Release | TBD
+
 ## Supported Downloads
 
 ### Current LTS Release
