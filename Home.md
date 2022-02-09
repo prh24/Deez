@@ -30,9 +30,8 @@ NDK r24 is the next rolling release.
 
 Release       | Expected Release Date
 ------------- | ---------------------
-Beta 2        | Released!
-RC 1          | Delayed (as soon as QA approves it)
-Release       | TBD
+RC 1          | Released!
+Release       | 2022-03-09
 
 ### NDK r25
 
@@ -40,7 +39,8 @@ NDK r25 is the next LTS release.
 
 Release | Expected Release Date
 ------- | ---------------------
-Beta 1  | 2022-02-09
+Beta 1  | Released!
+Beta 2  | 2022-03-09
 RC 1    | TBD
 Release | TBD
 
@@ -83,13 +83,11 @@ android {
   </tr>
 </table>
 
-### Current Beta Release
-
-[[r24 Changelog|Changelog-r24]]
+### Current release candidate
 
 ```gradle
 android {
-    ndkVersion "24.0.7956693-beta2"
+    ndkVersion "24.0.8079956-rc1"
 }
 ```
 
@@ -102,20 +100,57 @@ android {
   </tr>
   <tr>
     <td>macOS</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-beta2-darwin.dmg">android-ndk-r24-beta2-darwin.dmg</a></td>
-    <td>1517640863</td>
-    <td>ba8cadab52b460a189a57ec149bb0014d6a2c0c4</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-rc1-darwin.dmg">android-ndk-r24-rc1-darwin.dmg</a></td>
+    <td>1465649191</td>
+    <td>d2d5e5d460355a64a5bebcf498e5a78026a70cfb</td>
   </tr>
   <tr>
     <td>Linux</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-beta2-linux.zip">android-ndk-r24-beta2-linux.zip</a></td>
-    <td>695411089</td>
-    <td>78f3006243c0bc051c7c7bfb939689032e7c41ba</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-rc1-linux.zip">android-ndk-r24-rc1-linux.zip</a></td>
+    <td>667835859</td>
+    <td>de2a02e65c1c720336fe991dc708875539df85bf</td>
   </tr>
   <tr>
     <td>Windows</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-beta2-windows.zip">android-ndk-r24-beta2-windows.zip</a></td>
-    <td>661623688</td>
-    <td>d4eb40c03259094ae3ea05134ee17af717f48d6d</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-rc1-windows.zip">android-ndk-r24-rc1-windows.zip</a></td>
+    <td>663173050</td>
+    <td>dbc9f19cc758285192c26238b4b87be207464bf2</td>
+  </tr>
+</table>
+
+### Current Beta Release
+
+[[r24 Changelog|Changelog-r24]]
+
+```gradle
+android {
+    ndkVersion "25.0.8151533-beta1"
+}
+```
+
+<table>
+  <tr>
+    <th>Platform</th>
+    <th>Package</th>
+    <th>Size (bytes)</th>
+    <th>SHA1 Checksum</th>
+  </tr>
+  <tr>
+    <td>macOS</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r25-beta1-darwin.dmg">android-ndk-r25-beta1-darwin.dmg</a></td>
+    <td>1484893905</td>
+    <td>52784003a55e23495d307817bb7979fc75aba966</td>
+  </tr>
+  <tr>
+    <td>Linux</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r25-beta1-linux.zip">android-ndk-r25-beta1-linux.zip</a></td>
+    <td>680831029</td>
+    <td>0acca5e8faa47a6c961c358d724a93e33f8d6caf</td>
+  </tr>
+  <tr>
+    <td>Windows</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r25-beta1-windows.zip">android-ndk-r25-beta1-windows.zip</a></td>
+    <td>676453790</td>
+    <td>a5486182f79696794eb1a216c11f5e29652e72d1</td>
   </tr>
 </table>
