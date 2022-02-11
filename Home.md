@@ -85,6 +85,8 @@ android {
 
 ### Current release candidate
 
+[[r24 Changelog|Changelog-r24]]
+
 ```gradle
 android {
     ndkVersion "24.0.8079956-rc1"
@@ -120,7 +122,7 @@ android {
 
 ### Current Beta Release
 
-[[r24 Changelog|Changelog-r24]]
+[[r25 Changelog|Changelog-r25]]
 
 ```gradle
 android {
