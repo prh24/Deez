@@ -24,15 +24,6 @@ are a possibility if the first beta does not meet our promotion criteria, but
 there will always be at least one of each. For details, see [NDK Release
 Process](/android/ndk/wiki/NDK-Release-Process).
 
-### NDK r24
-
-NDK r24 is the next rolling release.
-
-Release       | Expected Release Date
-------------- | ---------------------
-RC 1          | Released!
-Release       | 2022-03-09
-
 ### NDK r25
 
 NDK r25 is the next LTS release.
@@ -40,7 +31,8 @@ NDK r25 is the next LTS release.
 Release | Expected Release Date
 ------- | ---------------------
 Beta 1  | Released!
-Beta 2  | 2022-03-09
+Beta 2  | Released!
+Beta 3  | TBD
 RC 1    | TBD
 Release | TBD
 
