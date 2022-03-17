@@ -83,13 +83,13 @@ android {
   </tr>
 </table>
 
-### Current release candidate
+### Current Stable Release
 
 [[r24 Changelog|Changelog-r24]]
 
 ```gradle
 android {
-    ndkVersion "24.0.8079956-rc1"
+    ndkVersion "24.0.8215888"
 }
 ```
 
@@ -102,21 +102,21 @@ android {
   </tr>
   <tr>
     <td>macOS</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-rc1-darwin.dmg">android-ndk-r24-rc1-darwin.dmg</a></td>
-    <td>1465649191</td>
-    <td>d2d5e5d460355a64a5bebcf498e5a78026a70cfb</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-darwin.dmg">android-ndk-r24-darwin.dmg</a></td>
+    <td>1465702648</td>
+    <td>a04581fe13173ea731168c6a1e73390ab628d1aa</td>
   </tr>
   <tr>
     <td>Linux</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-rc1-linux.zip">android-ndk-r24-rc1-linux.zip</a></td>
-    <td>667835859</td>
-    <td>de2a02e65c1c720336fe991dc708875539df85bf</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-linux.zip">android-ndk-r24-linux.zip</a></td>
+    <td>667731974</td>
+    <td>eceb18f147282eb93615eff1ad84a9d3962fbb31</td>
   </tr>
   <tr>
     <td>Windows</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-rc1-windows.zip">android-ndk-r24-rc1-windows.zip</a></td>
-    <td>663173050</td>
-    <td>dbc9f19cc758285192c26238b4b87be207464bf2</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-windows.zip">android-ndk-r24-windows.zip</a></td>
+    <td>663076813</td>
+    <td>75f9c281c64762d18c84da465f486c60def47829</td>
   </tr>
 </table>
 
