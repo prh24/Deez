@@ -118,7 +118,7 @@ android {
 
 ```gradle
 android {
-    ndkVersion "25.0.8221429-beta2"
+    ndkVersion "25.0.8355429-beta3"
 }
 ```
 
@@ -126,25 +126,25 @@ android {
   <tr>
     <th>Platform</th>
     <th>Package</th>
-    <th>Size (bytes)</th>
+    <th>Size (Bytes)</th>
     <th>SHA1 Checksum</th>
   </tr>
   <tr>
+    <td>Windows</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r25-beta3-windows.zip">android-ndk-r25-beta3-windows.zip</a></td>
+    <td>506142216</td>
+    <td>7d2c398045f6bbad03f6fb2f2ba419a2a48ab1e7</td>
+  </tr>
+  <tr>
     <td>macOS</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r25-beta2-darwin.dmg">android-ndk-r25-beta2-darwin.dmg</a></td>
-    <td>1475772539</td>
-    <td>1a7639e410175e374426f9e166239fefb17cae0f</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r25-beta3-darwin.dmg">android-ndk-r25-beta3-darwin.dmg</a></td>
+    <td>1285263336</td>
+    <td>7502129d66a319c8a99e5ebca35fd58c63bcb90c</td>
   </tr>
   <tr>
     <td>Linux</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r25-beta2-linux.zip">android-ndk-r25-beta2-linux.zip</a></td>
-    <td>677975159</td>
-    <td>3b7435a1a851a4b2dadeafa466f323db9235dd9a</td>
-  </tr>
-  <tr>
-    <td>Windows</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r25-beta2-windows.zip">android-ndk-r25-beta2-windows.zip</a></td>
-    <td>673597865</td>
-    <td>4fd188fdba7413c397bcaa342039d07266c954b6</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r25-beta3-linux.zip">android-ndk-r25-beta3-linux.zip</a></td>
+    <td>510520692</td>
+    <td>79c8db05e20edde0cbb02d2326e7b8405f7eb977</td>
   </tr>
 </table>
