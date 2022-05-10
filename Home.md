@@ -32,7 +32,8 @@ Release | Expected Release Date
 ------- | ---------------------
 Beta 1  | Released!
 Beta 2  | Released!
-Beta 3  | TBD
+Beta 3  | Released!
+Beta 4  | 11 May 2022
 RC 1    | TBD
 Release | TBD
 
