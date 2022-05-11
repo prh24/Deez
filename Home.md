@@ -33,8 +33,8 @@ Release | Expected Release Date
 Beta 1  | Released!
 Beta 2  | Released!
 Beta 3  | Released!
-Beta 4  | 11 May 2022
-RC 1    | TBD
+Beta 4  | Released!
+RC 1    | 8 June 2022
 Release | TBD
 
 ## Supported Downloads
@@ -119,7 +119,7 @@ android {
 
 ```gradle
 android {
-    ndkVersion "25.0.8355429-beta3"
+    ndkVersion "25.0.8528842-beta4"
 }
 ```
 
@@ -132,20 +132,20 @@ android {
   </tr>
   <tr>
     <td>Windows</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r25-beta3-windows.zip">android-ndk-r25-beta3-windows.zip</a></td>
-    <td>506142216</td>
-    <td>7d2c398045f6bbad03f6fb2f2ba419a2a48ab1e7</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r25-beta4-windows.zip">android-ndk-r25-beta4-windows.zip</a></td>
+    <td>464031742</td>
+    <td>668b063c7c535c4f8be52c84acebb5779935203b</td>
   </tr>
   <tr>
     <td>macOS</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r25-beta3-darwin.dmg">android-ndk-r25-beta3-darwin.dmg</a></td>
-    <td>1285263336</td>
-    <td>7502129d66a319c8a99e5ebca35fd58c63bcb90c</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r25-beta4-darwin.dmg">android-ndk-r25-beta4-darwin.dmg</a></td>
+    <td>1270034756</td>
+    <td>332a390ac63fdb0a7d5993008d101c87ab1598c2</td>
   </tr>
   <tr>
     <td>Linux</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r25-beta3-linux.zip">android-ndk-r25-beta3-linux.zip</a></td>
-    <td>510520692</td>
-    <td>79c8db05e20edde0cbb02d2326e7b8405f7eb977</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r25-beta4-linux.zip">android-ndk-r25-beta4-linux.zip</a></td>
+    <td>531018178</td>
+    <td>d13f688fd286709f0d950c75119ec9fcad8a47ff</td>
   </tr>
 </table>
