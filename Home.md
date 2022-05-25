@@ -45,7 +45,7 @@ Release | TBD
 
 ```gradle
 android {
-    ndkVersion "23.1.7779620"
+    ndkVersion "23.2.8568313"
 }
 ```
 
@@ -53,26 +53,26 @@ android {
   <tr>
     <th>Platform</th>
     <th>Package</th>
-    <th>Size (bytes)</th>
+    <th>Size (Bytes)</th>
     <th>SHA1 Checksum</th>
   </tr>
   <tr>
+    <td>Windows</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r23c-windows.zip">android-ndk-r23c-windows.zip</a></td>
+    <td>788336993</td>
+    <td>f2c5def76a9de371f27d028864fe301ab4fe0cf8</td>
+  </tr>
+  <tr>
     <td>macOS</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r23b-darwin.dmg">android-ndk-r23b-darwin.dmg</a></td>
-    <td>1537571116</td>
-    <td>e67c17f9763d160368383f05446d605e9e533195</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r23c-darwin.dmg">android-ndk-r23c-darwin.dmg</a></td>
+    <td>1542594243</td>
+    <td>da6f63d3eef041e1cceca449461c6d9148e879b7</td>
   </tr>
   <tr>
     <td>Linux</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r23b-linux.zip">android-ndk-r23b-linux.zip</a></td>
-    <td>725122099</td>
-    <td>f47ec4c4badd11e9f593a8450180884a927c330d</td>
-  </tr>
-  <tr>
-    <td>Windows</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r23b-windows.zip">android-ndk-r23b-windows.zip</a></td>
-    <td>788638042</td>
-    <td>6e3fb50022c611a2b13d02f5de5c21cc7206a298</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r23c-linux.zip">android-ndk-r23c-linux.zip</a></td>
+    <td>724733960</td>
+    <td>e5053c126a47e84726d9f7173a04686a71f9a67a</td>
   </tr>
 </table>
 
