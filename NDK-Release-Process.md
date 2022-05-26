@@ -8,12 +8,6 @@ release, see the [LTS Release] and [Rolling Release] sections below.
 [LTS Release]: #lts-release
 [Rolling Release]: #rolling-release
 
-Note: The support period for the first LTS release (NDK r21) will be compressed
-by about a quarter because we want typically hit Q3, but this process was not
-put in place in time for us to release NDK r21 in time. NDK r21's support cycle
-will begin with its release in late Q4 2019/early Q1 2020 and will last until Q3
-2020 when the next LTS release is available.
-
 Each NDK releases will first release to beta and betas will continue to be
 released until the bar for promotion has been met, at which time we will ship it
 as a release candidate. Release candidates will also be re-spun as needed until
@@ -28,6 +22,18 @@ more information.
 
 [LTS release criteria]: #lts-release-criteria
 [Rolling release criteria]: #rolling-release-criteria
+
+## Support windows
+
+The end of the support window is the last day that we will **ship** an update.
+A severe bug filed on the last day of the support window will not be fixed in
+the release it was filed against.
+
+Some types of bugs (toolchain bugs in particular) can take months to fix. The
+release process itself can take a long time as well, depending on QA
+availability. In practice, bugs filed in the last month (for toolchain bugs,
+the last two months) of a release window may not be able to be fixed until the
+next release.
 
 ## Triage
 
@@ -70,6 +76,7 @@ APIs in the LTS) will never be added in point releases.
   fix risks destabilizing the rest of the toolchain.
 
 ### A note about toolchain issues
+
 Wherever possible we will follow the guidelines laid out in this document, but for cases where LLVM does not yet have a fix we may not have the resources to fix it ourselves. Fixes of this nature often must be made by a subject matter expert, and most of those engineers are not on our staff. LLVM is a team effort including many companies and individuals, and their schedules are not dictated by the NDK.
 
 For these cases, we will raise the issue with the LLVM community and see that it reaches the right people. We do not wish to indefinitely delay an NDK release, so if a fix is not forthcoming we will need to ship with those known issues. Regressions from the previous release will be given more weight so as to not impede taking NDK updates, but the same constraints apply.
