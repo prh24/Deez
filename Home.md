@@ -35,7 +35,7 @@ Beta 2  | Released!
 Beta 3  | Released!
 Beta 4  | Released!
 RC 1    | 8 June 2022
-Release | TBD
+Release | 8 July 2022
 
 ## Supported Downloads
 
