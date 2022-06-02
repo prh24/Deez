@@ -37,6 +37,16 @@ Beta 4  | Released!
 RC 1    | 8 June 2022
 Release | 8 July 2022
 
+### NDK r26
+
+NDK r26 is the LTS release that will ship in 2023. Due to bandwidth constraints there are no major releases planned between r25 and the 2023 LTS. r25 is the 2022 LTS so it will be supported at least until r26 ships.
+
+Release | Expected Release Date
+------- | ---------------------
+Beta 1  | TBD
+RC 1    | Q3 2023
+Release | Q3 2023
+
 ## Supported Downloads
 
 ### Current LTS Release
