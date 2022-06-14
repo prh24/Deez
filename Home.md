@@ -34,8 +34,8 @@ Beta 1  | Released!
 Beta 2  | Released!
 Beta 3  | Released!
 Beta 4  | Released!
-RC 1    | 8 June 2022
-Release | 8 July 2022
+RC 1    | Released! (no new build; beta 4 is RC 1)
+Release | 14 July 2022
 
 ### NDK r26
 
