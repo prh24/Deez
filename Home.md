@@ -123,9 +123,11 @@ android {
   </tr>
 </table>
 
-### Current Beta Release
+### Next LTS release candidate
 
 [[r25 Changelog|Changelog-r25]]
+
+No new bugs were filed against NDK r25 beta 4, so beta 4 was promoted to RC 1 in-place. There is no new build for RC 1.
 
 ```gradle
 android {
