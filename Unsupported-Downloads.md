@@ -1,5 +1,79 @@
 **Note: these obsolete versions of the NDK are no longer supported. Use a [current release](/android/ndk/wiki) instead.**
 
+### r24
+
+[[r24 Changelog|Changelog-r24]]
+
+```gradle
+android {
+    ndkVersion "24.0.8215888"
+}
+```
+
+<table>
+  <tr>
+    <th>Platform</th>
+    <th>Package</th>
+    <th>Size (bytes)</th>
+    <th>SHA1 Checksum</th>
+  </tr>
+  <tr>
+    <td>macOS</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-darwin.dmg">android-ndk-r24-darwin.dmg</a></td>
+    <td>1465702648</td>
+    <td>a04581fe13173ea731168c6a1e73390ab628d1aa</td>
+  </tr>
+  <tr>
+    <td>Linux</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-linux.zip">android-ndk-r24-linux.zip</a></td>
+    <td>667731974</td>
+    <td>eceb18f147282eb93615eff1ad84a9d3962fbb31</td>
+  </tr>
+  <tr>
+    <td>Windows</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r24-windows.zip">android-ndk-r24-windows.zip</a></td>
+    <td>663076813</td>
+    <td>75f9c281c64762d18c84da465f486c60def47829</td>
+  </tr>
+</table>
+
+### r23c
+
+[[r23 Changelog|Changelog-r23]]
+
+```gradle
+android {
+    ndkVersion "23.2.8568313"
+}
+```
+
+<table>
+  <tr>
+    <th>Platform</th>
+    <th>Package</th>
+    <th>Size (Bytes)</th>
+    <th>SHA1 Checksum</th>
+  </tr>
+  <tr>
+    <td>Windows</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r23c-windows.zip">android-ndk-r23c-windows.zip</a></td>
+    <td>788336993</td>
+    <td>f2c5def76a9de371f27d028864fe301ab4fe0cf8</td>
+  </tr>
+  <tr>
+    <td>macOS</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r23c-darwin.dmg">android-ndk-r23c-darwin.dmg</a></td>
+    <td>1542594243</td>
+    <td>da6f63d3eef041e1cceca449461c6d9148e879b7</td>
+  </tr>
+  <tr>
+    <td>Linux</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r23c-linux.zip">android-ndk-r23c-linux.zip</a></td>
+    <td>724733960</td>
+    <td>e5053c126a47e84726d9f7173a04686a71f9a67a</td>
+  </tr>
+</table>
+
 ### r22b
 
 [[r22 Changelog|Changelog-r22]]
