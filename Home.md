@@ -40,11 +40,11 @@ Release | Q3 2023
 
 ### Current LTS Release
 
-[[r25b Changelog|Changelog-r25]]
+[[r25c Changelog|Changelog-r25]]
 
 ```gradle
 android {
-    ndkVersion "25.1.8937393"
+    ndkVersion "25.2.9519653"
 }
 ```
 
@@ -57,20 +57,20 @@ android {
   </tr>
   <tr>
     <td>Windows</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r25b-windows.zip">android-ndk-r25b-windows.zip</a></td>
-    <td>467422601</td>
-    <td>b2e9b5ab2e1434a65ffd85780891878cf5c6fd92</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r25c-windows.zip">android-ndk-r25c-windows.zip</a></td>
+    <td>467520926</td>
+    <td>18c4a3cd108916f553b1bedad2672f2c6cd85a10</td>
   </tr>
   <tr>
     <td>macOS</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r25b-darwin.dmg">android-ndk-r25b-darwin.dmg</a></td>
-    <td>1270031870</td>
-    <td>4da4e00c42d37ca1e19190776a92d3b0ae4f3e29</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r25c-darwin.dmg">android-ndk-r25c-darwin.dmg</a></td>
+    <td>1270899473</td>
+    <td>effebe35c4f32608c20460ca7bcc4278203ba1f1</td>
   </tr>
   <tr>
     <td>Linux</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r25b-linux.zip">android-ndk-r25b-linux.zip</a></td>
-    <td>530975885</td>
-    <td>e27dcb9c8bcaa77b78ff68c3f23abcf6867959eb</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r25c-linux.zip">android-ndk-r25c-linux.zip</a></td>
+    <td>531118193</td>
+    <td>53af80a1cce9144025b81c78c8cd556bff42bd0e</td>
   </tr>
 </table>
