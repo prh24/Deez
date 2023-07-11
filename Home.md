@@ -74,3 +74,40 @@ android {
     <td>53af80a1cce9144025b81c78c8cd556bff42bd0e</td>
   </tr>
 </table>
+
+### Current beta release
+
+[[r26 Changelog|Changelog-r26]]
+
+```gradle
+android {
+    ndkVersion "26.0.10404224-beta1"
+}
+```
+
+<table>
+  <tr>
+    <th>Platform</th>
+    <th>Package</th>
+    <th>Size (Bytes)</th>
+    <th>SHA1 Checksum</th>
+  </tr>
+  <tr>
+    <td>Windows</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r26-beta1-windows.zip">android-ndk-r26-beta1-windows.zip</a></td>
+    <td>664889266</td>
+    <td>bcdc60cf0149fc862cbb5514e7879d8c46c6e1e0</td>
+  </tr>
+  <tr>
+    <td>macOS</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r26-beta1-darwin.dmg">android-ndk-r26-beta1-darwin.dmg</a></td>
+    <td>1655327043</td>
+    <td>b97bd170f5ea5a04449aa23bbfdbd686395e0591</td>
+  </tr>
+  <tr>
+    <td>Linux</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r26-beta1-linux.zip">android-ndk-r26-beta1-linux.zip</a></td>
+    <td>668699088</td>
+    <td>fb5e34313766764d9654b04603e69af813b18799</td>
+  </tr>
+</table>
