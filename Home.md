@@ -32,7 +32,7 @@ there are no major releases planned between r25 and the 2023 LTS. r25 is the
 
 Release | Expected Release Date
 ------- | ---------------------
-Beta 1  | TBD
+Beta 1  | Released!
 RC 1    | Q3 2023
 Release | Q3 2023
 
