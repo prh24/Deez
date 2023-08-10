@@ -33,8 +33,8 @@ there are no major releases planned between r25 and the 2023 LTS. r25 is the
 Release | Expected Release Date
 ------- | ---------------------
 Beta 1  | Released!
-RC 1    | Q3 2023
-Release | Q3 2023
+RC 1    | Released!
+Release | September 2023
 
 ## Supported Downloads
 
@@ -81,7 +81,7 @@ android {
 
 ```gradle
 android {
-    ndkVersion "26.0.10404224-beta1"
+    ndkVersion "26.0.10636728-rc1"
 }
 ```
 
@@ -94,20 +94,20 @@ android {
   </tr>
   <tr>
     <td>Windows</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r26-beta1-windows.zip">android-ndk-r26-beta1-windows.zip</a></td>
-    <td>664889266</td>
-    <td>bcdc60cf0149fc862cbb5514e7879d8c46c6e1e0</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r26-rc1-windows.zip">android-ndk-r26-rc1-windows.zip</a></td>
+    <td>664889050</td>
+    <td>d4f4aa8a863e6e7cc0c433f1ecd8a304da4848a7</td>
   </tr>
   <tr>
     <td>macOS</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r26-beta1-darwin.dmg">android-ndk-r26-beta1-darwin.dmg</a></td>
-    <td>1655327043</td>
-    <td>b97bd170f5ea5a04449aa23bbfdbd686395e0591</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r26-rc1-darwin.dmg">android-ndk-r26-rc1-darwin.dmg</a></td>
+    <td>1655325328</td>
+    <td>2d95e41291d059585cd1b76ddfd8c68e39d1537c</td>
   </tr>
   <tr>
     <td>Linux</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r26-beta1-linux.zip">android-ndk-r26-beta1-linux.zip</a></td>
-    <td>668699088</td>
-    <td>fb5e34313766764d9654b04603e69af813b18799</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r26-rc1-linux.zip">android-ndk-r26-rc1-linux.zip</a></td>
+    <td>668698776</td>
+    <td>6ec8c08204409fea4853bf0317660caadabfc8b0</td>
   </tr>
 </table>
