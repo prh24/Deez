@@ -24,64 +24,27 @@ are a possibility if the first beta does not meet our promotion criteria, but
 there will always be at least one of each. For details, see [NDK Release
 Process](/android/ndk/wiki/NDK-Release-Process).
 
-### NDK r26 (LTS)
+### NDK r27 (LTS)
 
-NDK r26 is the LTS release that will ship in 2023. Due to bandwidth constraints
-there are no major releases planned between r25 and the 2023 LTS. r25 is the
-2022 LTS so it will be supported at least until r26 ships.
+NDK r27 is the LTS release that will ship in 2024. Due to bandwidth constraints
+there are no major releases planned between r26 and the 2024 LTS. r26 is the
+2023 LTS so it will be supported at least until r27 ships.
 
 Release | Expected Release Date
 ------- | ---------------------
-Beta 1  | Released!
-RC 1    | Released!
-Release | September 2023
+Beta 1  | TBD
+RC 1    | TBD
+Release | TBD
 
 ## Supported Downloads
 
 ### Current LTS Release
 
-[[r25c Changelog|Changelog-r25]]
-
-```gradle
-android {
-    ndkVersion "25.2.9519653"
-}
-```
-
-<table>
-  <tr>
-    <th>Platform</th>
-    <th>Package</th>
-    <th>Size (Bytes)</th>
-    <th>SHA1 Checksum</th>
-  </tr>
-  <tr>
-    <td>Windows</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r25c-windows.zip">android-ndk-r25c-windows.zip</a></td>
-    <td>467520926</td>
-    <td>18c4a3cd108916f553b1bedad2672f2c6cd85a10</td>
-  </tr>
-  <tr>
-    <td>macOS</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r25c-darwin.dmg">android-ndk-r25c-darwin.dmg</a></td>
-    <td>1270899473</td>
-    <td>effebe35c4f32608c20460ca7bcc4278203ba1f1</td>
-  </tr>
-  <tr>
-    <td>Linux</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r25c-linux.zip">android-ndk-r25c-linux.zip</a></td>
-    <td>531118193</td>
-    <td>53af80a1cce9144025b81c78c8cd556bff42bd0e</td>
-  </tr>
-</table>
-
-### Current beta release
-
 [[r26 Changelog|Changelog-r26]]
 
 ```gradle
 android {
-    ndkVersion "26.0.10636728-rc1"
+    ndkVersion "26.0.10792818"
 }
 ```
 
@@ -94,20 +57,20 @@ android {
   </tr>
   <tr>
     <td>Windows</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r26-rc1-windows.zip">android-ndk-r26-rc1-windows.zip</a></td>
-    <td>664889050</td>
-    <td>d4f4aa8a863e6e7cc0c433f1ecd8a304da4848a7</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r26-windows.zip">android-ndk-r26-windows.zip</a></td>
+    <td>664790510</td>
+    <td>7fcf5789bc248c130af675720353819f72b02b94</td>
   </tr>
   <tr>
     <td>macOS</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r26-rc1-darwin.dmg">android-ndk-r26-rc1-darwin.dmg</a></td>
-    <td>1655325328</td>
-    <td>2d95e41291d059585cd1b76ddfd8c68e39d1537c</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r26-darwin.dmg">android-ndk-r26-darwin.dmg</a></td>
+    <td>1655326729</td>
+    <td>c1c5236686e0427978d0afba60f544383d27216b</td>
   </tr>
   <tr>
     <td>Linux</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r26-rc1-linux.zip">android-ndk-r26-rc1-linux.zip</a></td>
-    <td>668698776</td>
-    <td>6ec8c08204409fea4853bf0317660caadabfc8b0</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r26-linux.zip">android-ndk-r26-linux.zip</a></td>
+    <td>668596633</td>
+    <td>d3bef08e0e43acd9e7815538df31818692d548bb</td>
   </tr>
 </table>

@@ -1,5 +1,40 @@
 **Note: these obsolete versions of the NDK are no longer supported. Use a [current release](/android/ndk/wiki) instead.**
 
+### r25c
+
+```gradle
+android {
+    ndkVersion "25.2.9519653"
+}
+```
+
+<table>
+  <tr>
+    <th>Platform</th>
+    <th>Package</th>
+    <th>Size (Bytes)</th>
+    <th>SHA1 Checksum</th>
+  </tr>
+  <tr>
+    <td>Windows</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r25c-windows.zip">android-ndk-r25c-windows.zip</a></td>
+    <td>467520926</td>
+    <td>18c4a3cd108916f553b1bedad2672f2c6cd85a10</td>
+  </tr>
+  <tr>
+    <td>macOS</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r25c-darwin.dmg">android-ndk-r25c-darwin.dmg</a></td>
+    <td>1270899473</td>
+    <td>effebe35c4f32608c20460ca7bcc4278203ba1f1</td>
+  </tr>
+  <tr>
+    <td>Linux</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r25c-linux.zip">android-ndk-r25c-linux.zip</a></td>
+    <td>531118193</td>
+    <td>53af80a1cce9144025b81c78c8cd556bff42bd0e</td>
+  </tr>
+</table>
+
 ### r24
 
 [[r24 Changelog|Changelog-r24]]
