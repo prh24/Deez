@@ -40,11 +40,11 @@ Release | TBD
 
 ### Current LTS Release
 
-[[r26 Changelog|Changelog-r26]]
+[[r26b Changelog|Changelog-r26]]
 
 ```gradle
 android {
-    ndkVersion "26.0.10792818"
+    ndkVersion "26.0.10909125"
 }
 ```
 
@@ -57,20 +57,20 @@ android {
   </tr>
   <tr>
     <td>Windows</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r26-windows.zip">android-ndk-r26-windows.zip</a></td>
-    <td>664790510</td>
-    <td>7fcf5789bc248c130af675720353819f72b02b94</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r26b-windows.zip">android-ndk-r26b-windows.zip</a></td>
+    <td>661624075</td>
+    <td>17453c61a59e848cffb8634f2c7b322417f1732e</td>
   </tr>
   <tr>
     <td>macOS</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r26-darwin.dmg">android-ndk-r26-darwin.dmg</a></td>
-    <td>1655326729</td>
-    <td>c1c5236686e0427978d0afba60f544383d27216b</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r26b-darwin.dmg">android-ndk-r26b-darwin.dmg</a></td>
+    <td>1657011580</td>
+    <td>c30bdbc77c5bae2faf912591611640ac4d3c2331</td>
   </tr>
   <tr>
     <td>Linux</td>
-    <td><a href="https://dl.google.com/android/repository/android-ndk-r26-linux.zip">android-ndk-r26-linux.zip</a></td>
-    <td>668596633</td>
-    <td>d3bef08e0e43acd9e7815538df31818692d548bb</td>
+    <td><a href="https://dl.google.com/android/repository/android-ndk-r26b-linux.zip">android-ndk-r26b-linux.zip</a></td>
+    <td>669320864</td>
+    <td>fdf33d9f6c1b3f16e5459d53a82c7d2201edbcc4</td>
   </tr>
 </table>
