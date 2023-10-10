@@ -44,7 +44,7 @@ Release | TBD
 
 ```gradle
 android {
-    ndkVersion "26.0.10909125"
+    ndkVersion "26.1.10909125"
 }
 ```
 
